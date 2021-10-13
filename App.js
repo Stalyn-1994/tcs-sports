@@ -44,7 +44,7 @@ function HomeScreen({ navigation }) {
     </View>
   );
 }
-//styles
+//styles cambios
 const styles = StyleSheet.create({
   container: {
     flex: 1,
