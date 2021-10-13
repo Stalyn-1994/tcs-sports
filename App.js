@@ -23,7 +23,7 @@ export default function App() {
     </View>
   );
 }
-
+//cambio
 
 function TeamScreen() {
   return (
